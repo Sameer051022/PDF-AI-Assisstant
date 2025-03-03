@@ -1,0 +1,12 @@
+ChatBot Project
+Sameer Faisal F2021065056
+Noman Qayyum  F2020065087
+
+1. pip install flask requests PyPDF2 sentence-transformers
+
+2. python app.py
+
+Some Asked Questions:
+What does Huck do with the money he and Tom found?
+How does Huck feel about his father?
+What events led up to the writing of 'The Adventures of Huckleberry Finn' by Mark Twain?
